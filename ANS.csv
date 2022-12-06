@@ -1,0 +1,266 @@
+A-Time,B-sex,C-leaved,D-age,E-country,F-education,G-diagnosis,H-concomitents,I-pain_intensity,J-favorit_colour,"K-threatening_event(death,sexual)",L-involuntary_memories_after_thr_event,M-distress_feelings_after_thr_event,N-colour_for_current_state,O-tring_not_thinking_about_thr_event,P-avoiding_people-locations-objects_remembering_about_thr_event,Q-trouble remembering_thr_event_details,R-trust_no_one_after_thr_event,S-most_intense_pain_in_last_4wks,T-blame_yourself_in_thr_event,U-feel_fear-guilt-shame_about_thr_event,V-not_interested_in_activity_was_before_thr_event,W-colour_for_yor_pain,X-feel_detached_from_people,Y-find_difficult_to_feel_happiness-contentment-love,Z-angrier_than_before_thr_event,AA-more_self_destructive,AB-always_ready,AC-sleep_trouble,AD-color_for_how_do_you_feel_now,AE-can_new_behavior or thoughts_be_attributed_to_substance-disease,AF-these_problems_caused_difficulties_in_relationships-work-studies
+8.8.2022 18:28:08,F,0,25-64,Ukraine,High,0,neural_disfunction,3.0,Blue,1.0,0.0,1,Red,1,1.0,0.0,1.0,3,0.0,0,0.0,Magenta,1.0,1.0,0.0,1.0,1.0,1.0,Magenta,0,0
+8.8.2022 18:37:54,F,1,25-64,Ukraine,High,Neuropathic pain,,7.0,White,1.0,1.0,1,Blue,0,1.0,1.0,0.0,7,0.0,1,1.0,Blue,1.0,1.0,0.0,1.0,1.0,1.0,Blue,0,1
+8.8.2022 18:41:13,F,0,25-64,Ukraine,High,0,diabetis,10.0,Black,1.0,1.0,1,Black,1,0.0,0.0,1.0,5,0.0,1,0.0,Black,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.8.2022 19:46:10,F,1,25-64,Ukraine,Middle,Chronic visceral pain,,2.0,Yellow,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,5,0.0,0,1.0,Magenta,1.0,1.0,1.0,1.0,0.0,1.0,Cyan,1,1
+8.8.2022 20:42:16,F,1,>65,Germany,High,0,locomotor,7.0,Green,1.0,1.0,0,Blue,1,0.0,1.0,1.0,7,0.0,1,1.0,Black,1.0,0.0,0.0,0.0,,1.0,Yellow,1,1
+8.8.2022 20:54:15,F,0,25-64,Ukraine,Middle,0,ulcer,4.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,0.0,6,0.0,1,0.0,Yellow,1.0,1.0,1.0,1.0,0.0,1.0,Black,0,1
+8.8.2022 21:16:09,F,0,25-64,Ukraine,High,0,,,Red,1.0,1.0,0,Cyan,1,0.0,0.0,0.0,4,0.0,0,0.0,Yellow,0.0,0.0,1.0,0.0,0.0,0.0,Magenta,0,0
+8.8.2022 21:30:24,F,1,25-64,Germany,High,0,,0.0,White,1.0,1.0,1,Red,1,1.0,0.0,1.0,0,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Red,0,0
+8.8.2022 21:32:17,F,0,>65,Ukraine,Middle,0,HTA,5.0,Yellow,1.0,1.0,1,Red,1,1.0,1.0,1.0,6,1.0,1,0.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.8.2022 21:38:48,F,0,25-64,Ukraine,High,0,,,Black,0.0,0.0,1,Magenta,1,0.0,0.0,0.0,9,0.0,1,0.0,Magenta,1.0,0.0,1.0,1.0,0.0,0.0,Magenta,0,0
+8.8.2022 22:24:43,F,0,25-64,Ukraine,High,0,,,Yellow,1.0,0.0,1,Blue,1,1.0,1.0,1.0,4,0.0,1,0.0,Red,1.0,1.0,1.0,1.0,1.0,0.0,Red,0,0
+8.9.2022 0:00:22,M,1,25-64,Ukraine,High,Chronic low back pain,locomotor,8.0,Green,0.0,0.0,0,Blue,0,0.0,0.0,0.0,3,0.0,0,0.0,White,0.0,0.0,1.0,1.0,0.0,0.0,Blue,0,0
+8.9.2022 3:11:18,F,1,25-64,Great Britan,High,0,,3.0,Magenta,1.0,0.0,1,Green,0,0.0,0.0,0.0,2,0.0,0,0.0,Red,0.0,0.0,0.0,0.0,1.0,0.0,Magenta,0,0
+8.9.2022 7:08:54,F,0,25-64,Ukraine,High,0,HTA,9.0,White,0.0,1.0,0,Yellow,0,0.0,0.0,1.0,9,0.0,0,0.0,Red,1.0,1.0,0.0,0.0,,1.0,Red,0,0
+8.9.2022 7:51:25,M,1,>65,Poland,High,Cancer pain,oncological,6.0,Green,1.0,1.0,1,Red,0,0.0,0.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,0.0,1.0,1.0,1.0,Red,0,0
+8.9.2022 7:54:30,M,1,>65,Poland,Middle,Chronic low back pain,diabetis,7.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.9.2022 8:02:40,M,1,>65,Poland,Middle,Chronic low back pain,locomotor,6.0,Cyan,1.0,1.0,1,Red,1,0.0,1.0,0.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.9.2022 8:12:30,F,1,25-64,Poland,High,Chronic low back pain,asthm,6.0,Yellow,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.9.2022 8:20:58,M,1,25-64,Republic of Moldova,High,Chronic low back pain,coagulopathy,7.0,Blue,1.0,1.0,1,Cyan,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.9.2022 8:39:59,F,1,25-64,Ukraine,High,Chronic low back pain,,8.0,Cyan,1.0,0.0,0,Blue,1,0.0,1.0,0.0,9,0.0,0,0.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Blue,0,1
+8.9.2022 9:23:58,F,1,25-64,Ukraine,High,Headache,,6.0,Cyan,1.0,0.0,1,Magenta,0,0.0,0.0,0.0,6,0.0,0,0.0,Red,0.0,0.0,1.0,1.0,0.0,0.0,Magenta,0,0
+8.9.2022 9:33:56,M,1,25-64,Slovakia,High,Cancer pain,diabetis,6.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.9.2022 11:09:23,F,1,25-64,Poland,High,0,,6.0,Magenta,0.0,0.0,0,Magenta,1,0.0,0.0,0.0,5,0.0,0,0.0,Blue,1.0,0.0,0.0,0.0,1.0,1.0,Blue,0,0
+8.9.2022 13:08:32,M,1,25-64,Poland,Middle,Cancer pain,oncological,7.0,Cyan,1.0,1.0,1,Green,1,1.0,0.0,0.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.9.2022 13:14:32,F,0,15-24,Ukraine,High,0,,4.0,Cyan,1.0,0.0,0,Magenta,1,1.0,1.0,0.0,3,0.0,0,0.0,Red,0.0,0.0,1.0,1.0,1.0,1.0,Magenta,0,0
+8.9.2022 13:39:09,F,0,25-64,Ukraine,Middle,Chronic low back pain,HTA,6.0,Magenta,0.0,1.0,1,Red,1,1.0,1.0,0.0,6,0.0,0,0.0,Red,0.0,0.0,0.0,0.0,1.0,1.0,Red,0,0
+8.9.2022 13:57:21,F,1,25-64,Ukraine,Middle,Chronic low back pain,HTA,6.0,Yellow,1.0,0.0,1,Red,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,0.0,1.0,0.0,1.0,Red,1,0
+8.9.2022 15:45:02,F,0,25-64,Ukraine,High,0,,2.0,Yellow,1.0,1.0,1,Blue,1,1.0,1.0,0.0,4,0.0,0,0.0,Red,1.0,0.0,1.0,1.0,1.0,1.0,Red,0,0
+8.9.2022 16:27:09,F,1,25-64,Ukraine,High,0,,6.0,Magenta,1.0,1.0,1,Yellow,1,0.0,0.0,0.0,5,0.0,0,0.0,Black,0.0,1.0,1.0,1.0,1.0,1.0,Green,0,1
+8.9.2022 17:18:57,F,0,25-64,Ukraine,High,Chronic low back pain,,7.0,Cyan,1.0,0.0,1,Red,1,0.0,1.0,1.0,9,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.9.2022 18:54:52,M,1,>65,Romania,High,Cancer pain,oncological,7.0,Cyan,1.0,1.0,1,Red,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.9.2022 19:03:54,M,1,25-64,Czech Republic,High,Cancer pain,oncological,6.0,Green,1.0,1.0,1,Red,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.9.2022 19:08:24,F,0,25-64,Ukraine,High,Fibromyalgia,infectious,8.0,Blue,1.0,1.0,0,Black,1,1.0,1.0,1.0,8,0.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Yellow,1,1
+8.10.2022 12:21:13,M,0,25-64,Ukraine,High,musculosceletal pain,,4.0,Yellow,1.0,1.0,1,Blue,0,0.0,0.0,0.0,6,1.0,1,0.0,Red,1.0,1.0,1.0,1.0,1.0,0.0,Magenta,1,0
+8.10.2022 17:58:01,F,0,25-64,Ukraine,High,Headache,,7.0,Green,1.0,0.0,0,Cyan,1,0.0,0.0,,5,0.0,0,,Magenta,1.0,1.0,0.0,0.0,0.0,1.0,White,0,0
+8.10.2022 20:51:07,M,1,>65,Poland,High,Cancer pain,oncological,6.0,Blue,0.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.10.2022 23:51:59,M,0,25-64,Ukraine,High,0,hepatic,4.0,Yellow,1.0,0.0,0,Cyan,0,0.0,0.0,0.0,6,0.0,0,0.0,Magenta,1.0,0.0,1.0,0.0,0.0,1.0,Cyan,1,0
+8.11.2022 13:18:45,M,1,25-64,Poland,High,Cancer pain,oncological,7.0,Blue,1.0,1.0,1,Red,0,0.0,1.0,1.0,7,0.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.11.2022 13:25:16,F,1,25-64,Poland,Middle,Chronic low back pain,,6.0,Yellow,1.0,1.0,1,Black,1,1.0,1.0,0.0,7,0.0,0,1.0,Red,1.0,0.0,1.0,1.0,1.0,1.0,Black,1,0
+8.11.2022 14:09:59,F,1,25-64,Poland,High,Chronic low back pain,asthm,7.0,Blue,1.0,1.0,1,Black,0,0.0,1.0,1.0,7,0.0,1,1.0,Red,0.0,1.0,1.0,0.0,1.0,1.0,Black,0,1
+8.11.2022 18:21:17,M,0,25-64,Ukraine,High,Cancer pain,coagulopathy,7.0,Cyan,1.0,0.0,0,Black,1,0.0,1.0,1.0,6,1.0,0,1.0,Red,1.0,0.0,1.0,1.0,1.0,1.0,Black,0,0
+8.12.2022 14:36:14,F,0,25-64,Ukraine,High,Cancer pain,oncological,6.0,Blue,0.0,0.0,0,Black,0,0.0,0.0,0.0,8,0.0,0,0.0,Red,0.0,0.0,0.0,,0.0,0.0,Red,0,0
+8.12.2022 14:45:40,F,1,25-64,Poland,High,Cancer pain,oncological,6.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,0
+8.13.2022 12:02:26,F,1,25-64,Ukraine,High,Chronic low back pain,unstable angina,6.0,Magenta,0.0,,1,Black,0,1.0,1.0,0.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.13.2022 14:52:14,F,1,25-64,Poland,Middle,Cancer pain,oncological,6.0,Blue,1.0,0.0,1,Red,0,0.0,0.0,0.0,6,1.0,0,0.0,Red,1.0,1.0,1.0,1.0,1.0,0.0,Red,1,1
+8.13.2022 22:00:35,M,0,25-64,Ukraine,Middle,Cancer pain,oncological,7.0,Green,1.0,1.0,1,Black,0,1.0,0.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,0.0,1.0,1.0,0.0,Black,0,1
+8.15.2022 13:49:15,M,1,25-64,Ukraine,Middle,Cancer pain,oncological,6.0,Cyan,0.0,1.0,0,Black,0,1.0,1.0,0.0,7,0.0,1,1.0,Red,0.0,1.0,1.0,1.0,0.0,1.0,Red,1,1
+8.15.2022 17:47:03,F,0,25-64,Ukraine,Middle,Cancer pain,oncological,6.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.15.2022 17:52:49,M,1,25-64,Poland,Middle,Chronic low back pain,ulcer,6.0,White,1.0,1.0,1,Red,0,1.0,0.0,1.0,6,1.0,0,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Red,1,1
+8.17.2022 12:43:20,M,1,25-64,Poland,High,Cancer pain,oncological,8.0,Green,0.0,1.0,1,Black,1,1.0,1.0,0.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,0.0,Black,1,0
+8.17.2022 22:12:58,F,1,25-64,Ukraine,Middle,Cancer pain,oncological,7.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.17.2022 22:16:57,M,1,25-64,Ukraine,Middle,Chronic low back pain,diabetis,6.0,Magenta,1.0,,1,White,1,0.0,1.0,1.0,6,1.0,1,1.0,Red,0.0,0.0,1.0,0.0,0.0,1.0,White,1,0
+8.18.2022 13:32:08,M,1,25-64,Ukraine,Middle,Cancer pain,oncological,6.0,Green,1.0,1.0,1,White,0,1.0,1.0,0.0,6,1.0,1,1.0,Red,0.0,1.0,1.0,0.0,1.0,1.0,Red,1,1
+8.18.2022 19:59:08,M,0,25-64,Ukraine,Middle,Chronic low back pain,diabetis,6.0,Magenta,0.0,1.0,1,Red,0,1.0,1.0,1.0,6,1.0,1,1.0,Red,0.0,0.0,0.0,0.0,1.0,1.0,Black,1,1
+8.18.2022 21:05:41,F,1,25-64,Poland,Middle,Cancer pain,oncological,7.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,0.0,1.0,1.0,Black,1,1
+8.19.2022 20:34:28,F,1,25-64,Poland,Middle,Cancer pain,oncological,7.0,Blue,1.0,1.0,1,Blue,1,1.0,1.0,1.0,7,1.0,1,0.0,Red,1.0,1.0,0.0,1.0,1.0,0.0,Black,0,0
+8.19.2022 20:36:02,M,0,25-64,Ukraine,High,Chronic low back pain,asthm,6.0,Cyan,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,0.0,1.0,0.0,1.0,Black,1,1
+8.19.2022 20:40:13,F,1,25-64,Poland,Middle,Headache,unstable angina,6.0,Yellow,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.19.2022 20:42:22,F,1,25-64,Romania,Middle,Chronic low back pain,asthm,8.0,Magenta,1.0,1.0,1,Black,1,1.0,0.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,0.0,1.0,0.0,Black,1,0
+8.19.2022 21:40:27,F,0,>65,Ukraine,Middle,Chronic low back pain,neurological deficiency,9.0,Green,1.0,1.0,1,Red,1,1.0,0.0,1.0,10,0.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Red,1,1
+8.20.2022 11:05:03,M,1,25-64,Poland,High,Headache,HTA,6.0,Green,1.0,1.0,1,Black,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.20.2022 14:41:36,F,1,25-64,Ukraine,Middle,Headache,HTA,6.0,Cyan,1.0,1.0,1,Black,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.20.2022 14:59:52,F,1,25-64,Poland,High,Chronic low back pain,neurological deficiency,6.0,Yellow,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,0.0,1.0,1.0,1.0,Black,0,1
+8.20.2022 17:21:45,F,1,25-64,Poland,Middle,Cancer pain,oncological,7.0,White,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.20.2022 17:26:07,F,1,25-64,Ukraine,High,Cancer pain,hepatic,6.0,Cyan,1.0,1.0,1,Red,1,,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.20.2022 17:28:56,M,1,25-64,Ukraine,High,Cancer pain,oncological,7.0,Blue,1.0,,1,Red,0,1.0,1.0,0.0,7,1.0,1,0.0,Red,0.0,1.0,1.0,1.0,0.0,1.0,Red,0,0
+8.20.2022 17:33:01,F,1,25-64,Slovakia,High,Chronic low back pain,HTA,6.0,White,1.0,1.0,1,Black,1,1.0,1.0,,7,1.0,0,1.0,Red,0.0,0.0,0.0,1.0,1.0,1.0,Black,1,0
+8.20.2022 18:08:51,M,1,25-64,Ukraine,High,Chronic low back pain,diabetis,6.0,Magenta,0.0,1.0,1,Yellow,1,,1.0,1.0,7,1.0,0,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Black,1,0
+8.20.2022 18:12:29,M,1,>65,Poland,High,Headache,HTA,6.0,Cyan,1.0,1.0,1,Black,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,0.0,Red,0,1
+8.20.2022 19:19:16,F,1,25-64,Poland,Middle,Cancer pain,oncological,6.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.20.2022 19:24:00,F,1,25-64,Ukraine,Middle,Cancer pain,oncological,7.0,Magenta,1.0,1.0,1,White,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,0.0,Black,0,0
+8.20.2022 19:30:57,M,1,15-24,Ukraine,High,0,locomotor,5.0,Blue,1.0,1.0,1,Yellow,1,0.0,0.0,1.0,5,0.0,0,0.0,Blue,0.0,0.0,0.0,0.0,1.0,0.0,Blue,0,1
+8.20.2022 19:34:51,M,0,25-64,Ukraine,High,Cancer pain,ulcer,7.0,Magenta,1.0,0.0,0,Magenta,0,1.0,1.0,1.0,7,1.0,1,1.0,Magenta,1.0,1.0,0.0,1.0,1.0,1.0,Magenta,0,1
+8.20.2022 19:37:07,M,1,>65,Czech Republic,Middle,Chronic low back pain,diabetis,5.0,Blue,0.0,0.0,0,Cyan,0,0.0,0.0,0.0,5,0.0,1,0.0,Red,0.0,0.0,0.0,0.0,0.0,0.0,Magenta,0,0
+8.20.2022 19:40:31,M,0,25-64,Ukraine,Middle,Cancer pain,oncological,8.0,White,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,0.0,0.0,0.0,0.0,Black,0,1
+8.21.2022 8:36:54,F,1,25-64,Germany,High,Cancer pain,oncological,7.0,Cyan,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,0,1.0,Black,1.0,0.0,0.0,1.0,1.0,1.0,Black,1,1
+8.21.2022 8:38:59,F,1,25-64,Ukraine,Middle,Headache,thyroid,6.0,Blue,1.0,1.0,1,Black,1,0.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.22.2022 13:47:39,M,0,15-24,Ukraine,Middle,Chronic low back pain,neural_disfunction,4.0,White,1.0,1.0,0,Cyan,1,0.0,1.0,1.0,7,0.0,1,1.0,Magenta,0.0,,1.0,0.0,0.0,1.0,Cyan,1,0
+8.22.2022 13:50:28,M,1,25-64,Czech Republic,High,Neuropathic pain,HTA,7.0,White,1.0,1.0,0,Cyan,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,0.0,1.0,Red,0,0
+8.22.2022 20:09:45,M,1,>65,Czech Republic,Primar,Chronic low back pain,HTA,6.0,Magenta,0.0,1.0,1,Red,1,1.0,0.0,0.0,9,0.0,1,1.0,Green,1.0,1.0,1.0,1.0,1.0,1.0,Yellow,1,1
+8.22.2022 20:11:28,F,1,25-64,Ukraine,High,musculosceletal pain,locomotor,6.0,Red,1.0,0.0,0,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Green,0.0,1.0,1.0,0.0,1.0,1.0,Yellow,1,1
+8.22.2022 20:13:00,F,1,25-64,Ukraine,Middle,Cancer pain,asthm,6.0,Red,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,7,1.0,1,1.0,Yellow,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.22.2022 20:14:45,F,1,>65,Poland,High,Neuropathic pain,thyroid,6.0,Red,1.0,1.0,1,Red,1,1.0,1.0,1.0,9,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Yellow,1,1
+8.22.2022 20:17:00,M,1,15-24,Ukraine,Middle,Chronic visceral pain,ulcer,6.0,Cyan,1.0,0.0,1,Cyan,1,1.0,1.0,1.0,7,1.0,1,1.0,White,1.0,1.0,1.0,1.0,1.0,1.0,Cyan,1,1
+8.22.2022 20:19:27,M,1,15-24,Ukraine,Middle,Neuropathic pain,copd,5.0,Blue,1.0,1.0,0,Magenta,1,1.0,1.0,1.0,9,1.0,1,1.0,Yellow,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.23.2022 17:06:11,M,1,15-24,Ukraine,Middle,Chronic low back pain,cronic renal,4.0,Cyan,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,7,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.23.2022 17:07:35,F,1,25-64,Ukraine,High,musculosceletal pain,HTA,5.0,Magenta,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,7,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,0.0,Red,1,1
+8.23.2022 17:08:47,M,1,25-64,Ukraine,Middle,musculosceletal pain,diabetis,5.0,Magenta,1.0,0.0,1,Magenta,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,0.0,1.0,0.0,1.0,1.0,Cyan,1,1
+8.23.2022 17:09:58,M,1,>65,Ukraine,Primar,musculosceletal pain,unstable angina,6.0,Cyan,1.0,1.0,0,Magenta,1,1.0,1.0,1.0,7,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.23.2022 18:02:15,M,1,25-64,Ukraine,Primar,Chronic low back pain,copd,4.0,Cyan,1.0,1.0,1,Cyan,1,1.0,1.0,1.0,6,0.0,1,0.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.23.2022 18:03:32,F,0,25-64,Ukraine,Middle,Neuropathic pain,ulcer,5.0,Magenta,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.23.2022 18:05:00,M,0,15-24,Ukraine,Primar,musculosceletal pain,hepatic,5.0,Magenta,1.0,1.0,1,Cyan,1,1.0,1.0,1.0,7,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.23.2022 18:06:40,F,0,>65,Ukraine,High,Neuropathic pain,unstable angina,6.0,Magenta,1.0,1.0,1,Magenta,0,1.0,1.0,1.0,7,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.23.2022 18:07:58,F,1,15-24,Ukraine,Middle,Chronic low back pain,thyroid,5.0,Magenta,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,6,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.23.2022 18:09:12,F,1,15-24,Ukraine,Primar,Neuropathic pain,cronic renal,5.0,Cyan,1.0,1.0,1,Cyan,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.23.2022 18:10:40,M,1,15-24,Ukraine,High,musculosceletal pain,asthm,5.0,Magenta,1.0,1.0,1,Cyan,0,0.0,0.0,0.0,6,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.23.2022 18:11:43,M,0,25-64,Ukraine,Middle,musculosceletal pain,diabetis,5.0,Magenta,1.0,1.0,0,Magenta,1,1.0,1.0,1.0,6,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,0.0,1.0,Red,1,1
+8.23.2022 18:13:50,M,1,>65,Ukraine,Middle,Neuropathic pain,copd,5.0,Magenta,1.0,1.0,0,Magenta,1,1.0,1.0,1.0,7,1.0,1,0.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Cyan,1,1
+8.23.2022 18:14:50,M,0,15-24,Ukraine,Middle,Chronic low back pain,thyroid,4.0,Blue,0.0,0.0,0,Magenta,0,0.0,0.0,0.0,5,0.0,0,0.0,Cyan,0.0,0.0,0.0,0.0,0.0,0.0,Cyan,0,0
+8.24.2022 20:32:34,M,0,15-24,Ukraine,Middle,musculosceletal pain,diabetis,5.0,Magenta,1.0,0.0,1,Magenta,1,1.0,1.0,1.0,7,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.24.2022 20:33:34,M,0,25-64,Ukraine,High,musculosceletal pain,HTA,5.0,Magenta,1.0,0.0,0,Cyan,0,1.0,1.0,1.0,6,1.0,1,1.0,Magenta,1.0,0.0,0.0,1.0,1.0,0.0,Magenta,1,1
+8.24.2022 20:34:43,M,0,>65,Ukraine,Middle,musculosceletal pain,unstable angina,6.0,Yellow,1.0,0.0,1,Yellow,0,1.0,1.0,0.0,6,0.0,1,0.0,Magenta,0.0,0.0,0.0,0.0,1.0,1.0,Magenta,1,1
+8.24.2022 20:35:54,F,0,25-64,Ukraine,High,Chronic low back pain,HTA,4.0,Blue,0.0,0.0,0,Cyan,0,0.0,0.0,0.0,6,0.0,0,0.0,Cyan,0.0,0.0,0.0,0.0,0.0,0.0,Magenta,0,0
+8.24.2022 20:37:08,F,0,>65,Ukraine,Middle,Neuropathic pain,HTA,6.0,Yellow,0.0,1.0,1,Yellow,0,1.0,1.0,1.0,7,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,0.0,1.0,Red,1,1
+8.24.2022 23:02:57,M,1,15-24,Ukraine,Middle,Chronic low back pain,ulcer,4.0,Blue,1.0,0.0,1,Magenta,1,1.0,1.0,1.0,7,0.0,0,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,0.0,Magenta,0,1
+8.24.2022 23:04:12,F,1,25-64,Ukraine,Middle,musculosceletal pain,diabetis,5.0,Cyan,1.0,0.0,1,Magenta,0,1.0,1.0,1.0,6,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Cyan,1,1
+8.24.2022 23:05:42,M,0,25-64,Ukraine,Middle,Chronic low back pain,unstable angina,6.0,White,1.0,0.0,0,Magenta,1,0.0,0.0,1.0,7,0.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.24.2022 23:06:57,F,1,25-64,Ukraine,Middle,Chronic low back pain,asthm,6.0,Red,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.24.2022 23:08:17,F,1,25-64,Czech Republic,Middle,Neuropathic pain,diabetis,5.0,Cyan,1.0,0.0,1,Magenta,1,1.0,1.0,1.0,7,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.24.2022 23:09:39,F,1,15-24,Ukraine,Middle,musculosceletal pain,HTA,5.0,Green,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,7,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.24.2022 23:11:24,F,1,15-24,Ukraine,Middle,0,thyroid,5.0,Blue,1.0,0.0,0,Magenta,0,1.0,1.0,1.0,8,0.0,1,1.0,Magenta,1.0,1.0,0.0,0.0,0.0,1.0,Cyan,1,1
+8.25.2022 8:37:20,F,1,25-64,Romania,High,musculosceletal pain,HTA,7.0,Green,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Black,1,1
+8.25.2022 8:47:05,F,1,25-64,Romania,High,Chronic low back pain,neurological deficiency,7.0,Green,1.0,1.0,1,Black,1,1.0,1.0,1.0,9,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.25.2022 8:52:28,F,1,25-64,Romania,High,musculosceletal pain,HTA,6.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.25.2022 8:55:09,F,1,25-64,Slovakia,Middle,musculosceletal pain,unstable angina,7.0,Blue,1.0,1.0,1,Black,1,1.0,0.0,1.0,9,0.0,1,1.0,Red,1.0,1.0,0.0,0.0,1.0,1.0,Black,1,1
+8.25.2022 8:57:42,F,1,25-64,Czech Republic,High,musculosceletal pain,HTA,5.0,Green,0.0,1.0,0,Black,1,1.0,0.0,1.0,6,0.0,1,1.0,Yellow,1.0,0.0,1.0,1.0,1.0,1.0,Red,1,1
+8.25.2022 9:00:04,F,1,25-64,Slovakia,Middle,musculosceletal pain,locomotor,7.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,0.0,1.0,0.0,1.0,1.0,1.0,Black,1,1
+8.25.2022 9:02:47,F,1,25-64,Hungary,High,Chronic low back pain,ulcer,7.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Black,0,1
+8.25.2022 9:04:48,F,1,25-64,Hungary,Middle,Chronic low back pain,HTA,6.0,Yellow,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,0.0,0.0,1.0,1.0,1.0,Black,0,1
+8.25.2022 9:06:39,F,1,25-64,Slovakia,Middle,musculosceletal pain,HTA,7.0,Blue,1.0,1.0,1,Black,1,1.0,0.0,1.0,7,0.0,1,1.0,Red,1.0,0.0,0.0,1.0,0.0,1.0,Black,1,1
+8.25.2022 9:10:40,F,1,25-64,Germany,High,Chronic low back pain,neural_disfunction,5.0,Cyan,1.0,1.0,1,Black,1,1.0,1.0,1.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Black,0,1
+8.25.2022 9:16:23,F,1,25-64,Ukraine,High,Chronic low back pain,HTA,7.0,Blue,1.0,1.0,1,Black,1,1.0,0.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.25.2022 9:22:03,F,1,25-64,Germany,Middle,Chronic low back pain,unstable angina,7.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Red,0,1
+8.25.2022 9:24:56,F,1,25-64,Germany,High,Fibromyalgia,,7.0,White,1.0,1.0,1,Black,1,1.0,1.0,0.0,8,1.0,1,0.0,Red,0.0,1.0,1.0,1.0,1.0,0.0,Yellow,0,1
+8.25.2022 9:28:58,F,1,25-64,Germany,High,musculosceletal pain,HTA,5.0,Magenta,1.0,0.0,1,Yellow,1,1.0,0.0,1.0,6,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,0.0,1.0,Yellow,0,1
+8.25.2022 9:34:20,F,1,25-64,Czech Republic,High,Cancer pain,oncological,7.0,Blue,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,0.0,1.0,0.0,0.0,1.0,Black,0,1
+8.25.2022 9:36:22,F,1,>65,Germany,High,Cancer pain,oncological,6.0,Blue,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,0.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Yellow,0,1
+8.25.2022 9:40:36,F,1,25-64,Germany,High,Cancer pain,oncological,6.0,Blue,0.0,1.0,1,Yellow,1,1.0,1.0,0.0,7,0.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.25.2022 9:45:56,F,1,25-64,Germany,High,Cancer pain,oncological,6.0,Magenta,1.0,1.0,1,Black,0,1.0,1.0,0.0,7,0.0,1,1.0,Red,0.0,1.0,0.0,1.0,0.0,1.0,Black,0,1
+8.25.2022 9:54:18,F,1,25-64,Great Britan,High,Cancer pain,oncological,7.0,Blue,1.0,1.0,0,Yellow,1,1.0,1.0,1.0,9,1.0,0,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Yellow,0,1
+8.25.2022 9:57:58,F,1,25-64,Germany,High,Cancer pain,oncological,7.0,Cyan,0.0,1.0,1,Black,0,1.0,1.0,0.0,8,1.0,1,1.0,Yellow,0.0,0.0,0.0,0.0,1.0,1.0,Black,0,1
+8.25.2022 10:14:08,F,1,25-64,Hungary,High,musculosceletal pain,asthm,5.0,Magenta,0.0,1.0,0,Yellow,1,1.0,1.0,1.0,6,1.0,1,1.0,Black,0.0,0.0,1.0,1.0,0.0,1.0,Black,0,1
+8.25.2022 11:51:01,F,1,25-64,Republic of Moldova,High,Cancer pain,oncological,6.0,Blue,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,7,1.0,1,1.0,Black,1.0,1.0,1.0,1.0,1.0,1.0,Yellow,0,1
+8.25.2022 11:53:37,M,1,25-64,Ukraine,High,Cancer pain,oncological,7.0,Green,1.0,1.0,1,Black,1,1.0,1.0,1.0,9,0.0,1,1.0,Red,0.0,1.0,0.0,1.0,1.0,1.0,Black,0,1
+8.25.2022 11:56:01,M,1,25-64,Germany,High,Cancer pain,oncological,10.0,Green,0.0,1.0,1,Red,1,1.0,1.0,1.0,10,0.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.25.2022 11:59:33,F,1,25-64,Hungary,Middle,Cancer pain,oncological,7.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,0.0,1.0,0.0,Red,0,1
+8.25.2022 12:27:45,F,1,25-64,Hungary,Middle,Cancer pain,oncological,7.0,Cyan,1.0,1.0,1,Red,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.25.2022 12:32:47,F,1,25-64,Ukraine,High,Cancer pain,oncological,7.0,Blue,1.0,1.0,1,Yellow,1,0.0,1.0,1.0,7,1.0,1,1.0,Red,0.0,0.0,0.0,1.0,0.0,1.0,Yellow,0,1
+8.25.2022 12:37:47,F,1,25-64,Ukraine,Middle,musculosceletal pain,HTA,5.0,Magenta,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,0.0,1.0,0.0,Yellow,0,1
+8.25.2022 12:42:00,F,1,25-64,Hungary,Middle,Cancer pain,oncological,6.0,Yellow,1.0,1.0,1,Black,0,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,0.0,Black,0,1
+8.25.2022 13:17:56,F,1,25-64,Ukraine,High,Cancer pain,oncological,7.0,Cyan,0.0,1.0,1,Red,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.25.2022 14:38:31,M,1,25-64,Ukraine,Middle,0,neurological deficiency,6.0,Magenta,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,8,0.0,0,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.25.2022 14:39:57,M,0,15-24,Ukraine,Middle,Chronic low back pain,asthm,6.0,Magenta,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,6,0.0,1,1.0,Magenta,0.0,1.0,1.0,1.0,0.0,1.0,Red,0,1
+8.25.2022 14:41:12,F,0,>65,Ukraine,High,musculosceletal pain,diabetis,7.0,Red,1.0,1.0,1,Red,1,1.0,1.0,1.0,7,1.0,0,0.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+8.25.2022 14:42:40,F,0,>65,Ukraine,Middle,musculosceletal pain,unstable angina,6.0,Cyan,0.0,0.0,0,Cyan,0,0.0,0.0,0.0,7,0.0,0,0.0,Magenta,0.0,0.0,0.0,0.0,0.0,0.0,Blue,0,0
+8.25.2022 14:43:38,F,0,>65,Ukraine,Middle,Neuropathic pain,diabetis,6.0,Blue,0.0,0.0,0,Magenta,0,0.0,0.0,0.0,7,0.0,0,0.0,Magenta,0.0,0.0,0.0,0.0,0.0,0.0,Magenta,0,0
+8.25.2022 14:45:09,M,0,15-24,Ukraine,Middle,musculosceletal pain,asthm,6.0,Magenta,0.0,0.0,0,Magenta,0,0.0,0.0,0.0,7,0.0,0,0.0,Red,0.0,0.0,0.0,0.0,0.0,0.0,Magenta,0,0
+8.25.2022 16:56:55,F,1,25-64,Ukraine,High,Cancer pain,oncological,7.0,Blue,0.0,1.0,1,Yellow,0,1.0,1.0,1.0,8,1.0,0,1.0,Red,1.0,1.0,1.0,0.0,1.0,1.0,Black,0,1
+8.25.2022 17:55:01,F,1,25-64,Germany,High,Cancer pain,diabetis,7.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,0.0,Black,0,1
+8.25.2022 18:03:54,F,1,25-64,Hungary,Middle,Cancer pain,locomotor,6.0,White,1.0,1.0,1,Red,0,0.0,1.0,1.0,7,1.0,1,0.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.25.2022 18:13:39,F,1,25-64,Germany,High,Cancer pain,oncological,7.0,Cyan,1.0,1.0,1,Red,0,0.0,1.0,1.0,7,1.0,1,1.0,Red,,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.25.2022 18:23:05,F,1,25-64,Ukraine,Middle,Fibromyalgia,neurological deficiency,6.0,Blue,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,0.0,Red,0,1
+8.25.2022 18:50:28,M,1,25-64,Ukraine,High,Cancer pain,oncological,7.0,White,1.0,1.0,1,Red,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.25.2022 18:55:58,F,1,25-64,Slovakia,Middle,Cancer pain,HTA,6.0,Green,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.25.2022 21:31:16,F,0,15-24,Ukraine,Primar,Chronic low back pain,,6.0,Cyan,1.0,1.0,1,Cyan,1,1.0,1.0,1.0,8,0.0,1,1.0,Magenta,1.0,0.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.25.2022 21:32:17,F,1,25-64,Poland,Middle,musculosceletal pain,diabetis,5.0,Magenta,1.0,0.0,1,Magenta,1,1.0,1.0,1.0,7,1.0,0,0.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.25.2022 21:33:35,F,1,25-64,Poland,Middle,Chronic visceral pain,thyroid,6.0,Magenta,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,6,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,0
+8.25.2022 21:34:55,F,1,0-14,Poland,Primar,Chronic low back pain,,5.0,Blue,0.0,0.0,0,Cyan,0,0.0,0.0,0.0,7,0.0,0,0.0,Magenta,0.0,0.0,0.0,0.0,0.0,0.0,Magenta,0,0
+8.25.2022 23:07:19,F,0,15-24,Ukraine,Primar,Chronic low back pain,,4.0,Cyan,0.0,0.0,0,Blue,0,0.0,0.0,0.0,6,0.0,0,0.0,Blue,0.0,0.0,0.0,0.0,0.0,0.0,Blue,0,0
+8.25.2022 23:08:39,F,0,0-14,Ukraine,Primar,Chronic low back pain,,4.0,Yellow,0.0,0.0,0,White,0,0.0,0.0,0.0,6,0.0,0,0.0,Magenta,0.0,0.0,0.0,0.0,0.0,0.0,Magenta,0,0
+8.26.2022 7:30:30,F,1,25-64,Italy,High,Cancer pain,oncological,7.0,Green,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 7:35:02,F,1,25-64,Romania,High,Chronic low back pain,HTA,7.0,Cyan,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 7:40:53,F,1,15-24,Hungary,High,Fibromyalgia,,7.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,0.0,8,0.0,1,1.0,Yellow,1.0,1.0,1.0,1.0,1.0,1.0,Yellow,0,1
+8.26.2022 7:42:13,M,1,25-64,Ukraine,High,Cancer pain,oncological,7.0,White,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 7:47:54,F,1,>65,Germany,High,musculosceletal pain,HTA,6.0,Blue,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Yellow,0,1
+8.26.2022 7:49:13,F,1,>65,Poland,High,musculosceletal pain,diabetis,7.0,Cyan,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 8:06:45,F,1,25-64,Canada,High,Chronic low back pain,neural_disfunction,7.0,Green,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 8:08:31,M,1,25-64,Canada,High,musculosceletal pain,unstable angina,7.0,White,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Black,0,1
+8.26.2022 8:28:36,F,1,25-64,Canada,High,Chronic low back pain,asthm,7.0,White,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 8:31:42,F,1,25-64,Republic of Moldova,High,Cancer pain,oncological,7.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 11:05:07,F,1,25-64,Italy,Middle,Chronic low back pain,thyroid,6.0,Green,,1.0,1,Yellow,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,,1.0,1.0,Black,0,1
+8.26.2022 12:49:12,F,1,>65,Poland,Middle,Cancer pain,oncological,7.0,Green,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 13:05:50,M,1,25-64,Ukraine,High,musculosceletal pain,ulcer,6.0,Magenta,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 13:15:28,F,1,>65,Germany,Middle,Cancer pain,oncological,6.0,Cyan,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,,1.0,Black,0,1
+8.26.2022 14:37:27,F,1,>65,Czech Republic,Middle,musculosceletal pain,neurological deficiency,6.0,Cyan,1.0,1.0,1,Black,1,1.0,,0.0,7,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 18:22:16,F,1,25-64,Great Britan,High,musculosceletal pain,neurological deficiency,8.0,Magenta,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,0.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 18:24:16,F,1,25-64,Czech Republic,Middle,Chronic low back pain,asthm,6.0,White,0.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 19:22:38,M,1,>65,Ukraine,Middle,Cancer pain,oncological,7.0,White,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.26.2022 20:38:12,M,1,25-64,Ukraine,High,Fibromyalgia,locomotor,6.0,Cyan,1.0,0.0,1,Yellow,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,1,1
+8.26.2022 21:18:32,M,1,25-64,Ukraine,High,musculosceletal pain,HTA,6.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.27.2022 11:30:37,M,0,25-64,Ukraine,Middle,Chronic low back pain,diabetis,5.0,White,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,6,0.0,0,0.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.27.2022 11:31:54,F,1,25-64,Poland,Primar,musculosceletal pain,HTA,5.0,Magenta,0.0,0.0,0,Magenta,0,0.0,0.0,0.0,7,0.0,0,0.0,Magenta,0.0,0.0,0.0,0.0,0.0,0.0,Magenta,0,0
+8.27.2022 11:33:06,M,0,25-64,Ukraine,Middle,Chronic low back pain,asthm,5.0,Green,1.0,1.0,1,Magenta,1,1.0,1.0,1.0,8,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.27.2022 11:44:58,M,0,>65,Ukraine,High,musculosceletal pain,copd,5.0,Black,0.0,0.0,0,Yellow,0,0.0,0.0,0.0,5,0.0,0,0.0,Magenta,0.0,0.0,0.0,0.0,0.0,0.0,Magenta,0,0
+8.27.2022 14:48:34,F,1,25-64,Republic of Moldova,Middle,Cancer pain,oncological,7.0,White,1.0,1.0,1,Black,1,1.0,0.0,1.0,9,0.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Black,0,1
+8.27.2022 17:56:53,M,1,25-64,Poland,High,Headache,HTA,6.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,,Black,0,1
+8.27.2022 17:59:00,F,1,25-64,Great Britan,High,Headache,diabetis,7.0,Blue,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.27.2022 18:28:19,F,1,25-64,Germany,Middle,musculosceletal pain,HTA,6.0,Green,1.0,1.0,0,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.27.2022 18:54:57,F,1,25-64,Hungary,Middle,Headache,locomotor,7.0,Green,1.0,1.0,1,Red,1,1.0,1.0,1.0,9,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.27.2022 21:14:08,F,1,25-64,Poland,Middle,Headache,HTA,5.0,Yellow,1.0,1.0,1,Red,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,0.0,1.0,1.0,Red,0,1
+8.28.2022 7:20:37,F,1,25-64,Switzerland,Middle,Headache,asthm,5.0,Green,1.0,1.0,1,Black,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.28.2022 7:22:41,M,1,25-64,Ukraine,Middle,musculosceletal pain,HTA,6.0,Blue,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Yellow,0,0
+8.28.2022 7:25:37,F,1,25-64,Canada,Middle,Chronic low back pain,neurological deficiency,6.0,Cyan,1.0,1.0,0,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,0.0,1.0,1.0,1.0,1.0,Yellow,0,0
+8.28.2022 7:29:11,F,1,25-64,Sweden ,High,Chronic low back pain,locomotor,6.0,Green,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,0.0,1.0,1.0,Yellow,0,1
+8.28.2022 7:36:47,F,1,25-64,Canada,Middle,Headache,unstable angina,6.0,Yellow,1.0,1.0,0,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.28.2022 7:39:41,M,1,25-64,Slovakia,Middle,Chronic low back pain,asthm,5.0,Blue,0.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,0.0,1.0,1.0,1.0,1.0,Black,0,1
+8.28.2022 7:42:13,F,1,25-64,Romania,Middle,Chronic low back pain,locomotor,8.0,Yellow,1.0,1.0,1,Red,1,1.0,,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Red,0,1
+8.28.2022 7:46:28,F,1,>65,Czech Republic,High,Chronic low back pain,asthm,6.0,White,1.0,1.0,1,Black,1,1.0,1.0,1.0,9,1.0,1,1.0,Red,1.0,,0.0,1.0,0.0,1.0,Black,0,1
+8.28.2022 7:48:09,F,1,15-24,Republic of Moldova,High,Cancer pain,oncological,7.0,White,1.0,1.0,1,Red,0,1.0,1.0,1.0,9,1.0,1,1.0,Red,0.0,1.0,0.0,1.0,1.0,1.0,Red,0,1
+8.28.2022 7:50:44,F,1,25-64,Ukraine,Middle,Headache,HTA,7.0,Magenta,0.0,0.0,0,Black,0,1.0,0.0,1.0,7,0.0,1,1.0,Red,0.0,0.0,1.0,0.0,1.0,0.0,Black,0,1
+8.28.2022 7:52:46,F,1,>65,Ukraine,Middle,Cancer pain,oncological,6.0,White,0.0,1.0,1,Red,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,0.0,1.0,Red,0,1
+8.28.2022 7:54:35,F,1,25-64,Germany,Middle,Cancer pain,oncological,6.0,White,1.0,1.0,0,Red,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,0.0,1.0,1.0,1.0,1.0,Red,0,1
+8.28.2022 7:56:24,F,1,25-64,Italy,Middle,Headache,HTA,4.0,Cyan,0.0,0.0,1,Black,1,1.0,,1.0,7,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,0.0,Red,0,1
+8.28.2022 7:58:57,F,1,>65,Germany,High,Chronic low back pain,HTA,5.0,Cyan,0.0,1.0,1,Black,0,1.0,1.0,0.0,6,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Black,0,1
+8.28.2022 8:15:36,F,1,25-64,Czech Republic,Middle,Chronic low back pain,HTA,5.0,Magenta,0.0,1.0,1,Black,1,1.0,1.0,1.0,7,0.0,1,1.0,Red,1.0,1.0,0.0,1.0,1.0,1.0,Black,0,1
+8.28.2022 13:24:10,F,1,25-64,Ukraine,Middle,Cancer pain,oncological,6.0,White,1.0,1.0,1,Black,1,0.0,1.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,0.0,Red,0,1
+8.28.2022 13:26:47,F,1,>65,Germany,Middle,Cancer pain,oncological,7.0,Blue,1.0,1.0,1,Yellow,1,1.0,1.0,0.0,8,0.0,1,0.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Black,0,1
+8.28.2022 13:44:16,F,1,25-64,Sweden ,Middle,Headache,HTA,5.0,White,0.0,0.0,1,Black,0,1.0,0.0,1.0,7,1.0,0,1.0,Red,0.0,1.0,,1.0,1.0,1.0,Black,0,1
+8.28.2022 13:48:23,F,1,>65,Republic of Moldova,High,Cancer pain,oncological,5.0,Blue,1.0,1.0,1,Black,0,1.0,1.0,1.0,8,1.0,1,1.0,Red,0.0,0.0,0.0,0.0,1.0,1.0,Black,0,1
+8.28.2022 17:45:23,F,1,25-64,Ukraine,High,8,,6.0,White,0.0,0.0,0,Yellow,1,1.0,0.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,0.0,1.0,1.0,Yellow,0,1
+8.28.2022 18:04:41,F,1,>65,Ukraine,Middle,Cancer pain,oncological,6.0,Blue,0.0,1.0,1,Yellow,1,1.0,1.0,1.0,9,1.0,1,1.0,Red,1.0,1.0,1.0,,1.0,1.0,Yellow,0,1
+8.28.2022 18:54:00,M,1,25-64,Ukraine,Middle,Chronic low back pain,HTA,5.0,Blue,0.0,1.0,1,Yellow,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,0.0,1.0,Yellow,0,1
+8.28.2022 18:57:02,F,1,25-64,Republic of Moldova,Middle,Cancer pain,oncological,6.0,Yellow,1.0,1.0,1,Red,1,1.0,1.0,1.0,9,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.28.2022 19:19:59,M,0,25-64,Ukraine,Middle,Cancer pain,oncological,6.0,Yellow,1.0,1.0,1,Black,1,1.0,1.0,0.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,0.0,1.0,Black,0,1
+8.28.2022 19:48:38,F,1,25-64,Romania,High,Chronic low back pain,neurological deficiency,5.0,Green,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+8.29.2022 18:14:32,F,1,25-64,Slovakia,Middle,Cancer pain,oncological,6.0,White,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,8,1.0,1,0.0,Red,0.0,1.0,0.0,1.0,1.0,1.0,Yellow,0,1
+8.29.2022 18:17:15,F,1,>65,Czech Republic,High,Cancer pain,oncological,6.0,Cyan,1.0,1.0,1,Black,1,1.0,1.0,1.0,9,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,0.0,1.0,Black,0,1
+8.29.2022 18:19:27,F,1,25-64,Poland,High,Headache,,6.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,8,1.0,0,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.29.2022 18:42:44,F,1,>65,Poland,High,musculosceletal pain,neurological deficiency,6.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,9,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.29.2022 18:53:46,M,0,25-64,Ukraine,Middle,Fibromyalgia,thyroid,5.0,Blue,1.0,1.0,1,Yellow,0,1.0,1.0,1.0,8,0.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Yellow,0,1
+8.29.2022 19:02:42,M,0,25-64,Ukraine,Middle,musculosceletal pain,neurological deficiency,6.0,Green,0.0,1.0,0,Yellow,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,0.0,Yellow,0,1
+8.29.2022 20:34:03,M,1,25-64,Ukraine,High,Chronic low back pain,locomotor,5.0,Green,0.0,1.0,0,Yellow,1,1.0,0.0,1.0,8,1.0,0,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Yellow,0,1
+8.30.2022 17:24:56,F,0,25-64,Ukraine,High,Chronic visceral pain,locomotor,5.0,Green,0.0,0.0,0,Black,0,1.0,1.0,0.0,3,0.0,0,0.0,White,0.0,1.0,0.0,0.0,1.0,0.0,Green,0,0
+8.30.2022 18:05:23,F,1,25-64,Romania,High,musculosceletal pain,neural_disfunction,4.0,Blue,1.0,1.0,1,Green,0,1.0,1.0,1.0,5,0.0,1,1.0,White,1.0,1.0,0.0,1.0,1.0,1.0,White,0,1
+8.30.2022 18:07:12,F,1,25-64,Romania,Middle,Chronic visceral pain,locomotor,3.0,Cyan,0.0,1.0,1,Red,1,1.0,1.0,1.0,6,1.0,1,1.0,Cyan,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.30.2022 18:08:25,F,1,25-64,Romania,High,Headache,diabetis,2.0,Magenta,0.0,1.0,0,White,0,1.0,0.0,1.0,7,1.0,1,0.0,Green,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.30.2022 18:15:16,F,1,15-24,Romania,Middle,Headache,thyroid,5.0,Magenta,1.0,1.0,1,Yellow,1,0.0,1.0,1.0,8,1.0,1,1.0,Blue,1.0,0.0,1.0,1.0,0.0,0.0,Magenta,1,1
+8.30.2022 18:16:56,F,1,25-64,Romania,High,Headache,diabetis,5.0,Magenta,1.0,0.0,0,White,1,0.0,0.0,1.0,7,1.0,1,0.0,Yellow,1.0,0.0,1.0,1.0,1.0,1.0,Yellow,0,1
+8.30.2022 18:47:32,F,0,15-24,Ukraine,Middle,musculosceletal pain,diabetis,4.0,Black,0.0,0.0,0,Magenta,0,0.0,0.0,0.0,6,0.0,0,0.0,Magenta,0.0,0.0,0.0,0.0,0.0,0.0,Blue,0,0
+8.30.2022 18:49:08,M,0,0-14,Ukraine,Primar,Chronic low back pain,HTA,5.0,White,1.0,1.0,1,Magenta,0,1.0,0.0,1.0,7,0.0,1,0.0,Magenta,0.0,1.0,1.0,0.0,1.0,0.0,Cyan,0,1
+8.30.2022 18:50:31,M,1,15-24,Poland,Middle,musculosceletal pain,asthm,6.0,Magenta,0.0,0.0,0,Magenta,0,0.0,0.0,0.0,6,0.0,0,0.0,Magenta,0.0,0.0,0.0,0.0,0.0,0.0,Blue,0,0
+8.30.2022 18:52:39,M,0,>65,Ukraine,High,musculosceletal pain,copd,6.0,Red,1.0,1.0,1,Blue,1,1.0,1.0,1.0,6,1.0,1,1.0,Cyan,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+8.30.2022 18:59:16,M,0,25-64,Ukraine,High,0,,0.0,White,1.0,0.0,0,Blue,0,0.0,0.0,1.0,1,0.0,0,0.0,Red,1.0,0.0,1.0,1.0,0.0,0.0,Green,0,0
+8.30.2022 19:00:15,M,0,25-64,Ukraine,High,0,,,Green,1.0,0.0,0,Green,0,0.0,0.0,0.0,1,0.0,0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,Green,0,0
+8.30.2022 19:03:58,M,0,25-64,Ukraine,High,musculosceletal pain,diabetis,5.0,Magenta,1.0,1.0,0,Green,0,0.0,0.0,0.0,8,0.0,0,0.0,Red,0.0,0.0,0.0,0.0,0.0,1.0,Cyan,0,0
+8.30.2022 19:05:04,F,0,25-64,Ukraine,High,0,,3.0,White,1.0,1.0,1,White,1,0.0,0.0,0.0,1,0.0,0,1.0,Green,0.0,0.0,0.0,0.0,1.0,0.0,White,0,0
+8.30.2022 19:12:24,F,0,25-64,Ukraine,High,musculosceletal pain,thyroid,5.0,Green,1.0,1.0,1,Yellow,1,1.0,1.0,0.0,5,0.0,0,1.0,Yellow,0.0,0.0,1.0,0.0,1.0,0.0,White,1,0
+8.30.2022 19:15:17,F,1,25-64,Romania,Middle,Headache,locomotor,5.0,Blue,1.0,0.0,1,Red,1,0.0,1.0,0.0,7,0.0,1,1.0,Red,1.0,1.0,1.0,0.0,1.0,0.0,Yellow,1,1
+8.30.2022 19:16:33,F,1,25-64,Romania,High,0,asthm,4.0,Cyan,1.0,0.0,1,Magenta,1,0.0,1.0,1.0,8,0.0,1,0.0,Green,0.0,1.0,1.0,1.0,1.0,1.0,Yellow,1,1
+8.30.2022 19:17:58,F,1,25-64,Romania,High,Neuropathic pain,unstable angina,3.0,Black,0.0,1.0,1,Blue,0,0.0,1.0,0.0,4,0.0,1,1.0,White,0.0,1.0,0.0,1.0,1.0,0.0,Red,0,0
+8.30.2022 19:19:11,F,1,>65,Romania,High,musculosceletal pain,oncological,4.0,Blue,1.0,0.0,1,Green,0,1.0,1.0,1.0,6,1.0,1,1.0,Black,0.0,0.0,0.0,1.0,1.0,0.0,Black,0,1
+8.30.2022 19:21:52,M,0,25-64,Ukraine,High,0,,2.0,Red,1.0,1.0,1,Red,1,1.0,1.0,0.0,4,0.0,0,1.0,Red,1.0,0.0,0.0,1.0,1.0,1.0,Yellow,0,0
+8.30.2022 19:24:08,F,1,25-64,Romania,High,musculosceletal pain,HTA,5.0,Green,1.0,0.0,1,Magenta,1,1.0,1.0,0.0,6,1.0,1,0.0,Green,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+8.30.2022 19:25:23,F,1,>65,Romania,High,Cancer pain,oncological,3.0,Red,0.0,1.0,1,Yellow,1,0.0,1.0,0.0,6,1.0,1,0.0,Magenta,1.0,0.0,1.0,1.0,0.0,1.0,Yellow,1,1
+8.30.2022 19:39:55,F,0,25-64,Ukraine,Middle,Chronic low back pain,locomotor,5.0,White,1.0,1.0,1,Black,1,1.0,0.0,0.0,2,0.0,0,1.0,Red,0.0,1.0,1.0,0.0,1.0,1.0,Yellow,0,0
+8.30.2022 19:57:02,M,0,25-64,Ukraine,High,0,,0.0,Blue,1.0,0.0,0,Blue,0,0.0,0.0,0.0,0,0.0,0,0.0,Blue,0.0,0.0,1.0,0.0,1.0,0.0,Blue,0,0
+8.30.2022 21:35:36,F,0,25-64,Ukraine,High,0,,5.0,Magenta,1.0,1.0,1,Blue,1,0.0,0.0,0.0,5,1.0,1,0.0,Black,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,0
+8.30.2022 21:45:45,F,0,25-64,Ukraine,High,0,,0.0,Red,1.0,0.0,1,Yellow,1,0.0,0.0,0.0,0,0.0,0,0.0,Magenta,0.0,0.0,1.0,0.0,1.0,0.0,Yellow,0,0
+8.31.2022 14:59:54,F,1,25-64,Republic of Moldova,Middle,Chronic low back pain,diabetis,5.0,Magenta,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,5,1.0,1,1.0,Magenta,1.0,1.0,1.0,1.0,1.0,1.0,Magenta,1,1
+9.1.2022 14:24:30,M,1,>65,Slovakia,High,Cancer pain,oncological,6.0,White,1.0,1.0,1,Yellow,1,1.0,1.0,1.0,9,1.0,1,1.0,Red,0.0,0.0,0.0,1.0,1.0,1.0,Black,0,1
+9.1.2022 16:11:03,M,1,>65,Ukraine,Middle,musculosceletal pain,oncological,7.0,Green,0.0,1.0,1,Yellow,1,0.0,1.0,1.0,9,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,0.0,Black,0,1
+9.2.2022 18:01:59,F,1,25-64,Ukraine,Middle,musculosceletal pain,,5.0,Green,1.0,1.0,1,Yellow,1,1.0,0.0,1.0,8,,1,1.0,Red,0.0,1.0,1.0,1.0,0.0,1.0,Red,0,1
+9.2.2022 20:07:17,F,1,25-64,Romania,Middle,Chronic low back pain,locomotor,6.0,Blue,0.0,1.0,1,Yellow,0,1.0,1.0,1.0,7,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+9.3.2022 20:16:31,F,0,25-64,Ukraine,Middle,Chronic low back pain,neurological deficiency,6.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+9.4.2022 8:52:24,F,0,25-64,Ukraine,Middle,0,oncological,6.0,White,1.0,1.0,1,Red,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+9.4.2022 8:55:22,F,1,25-64,Poland,Middle,Chronic low back pain,neurological deficiency,5.0,Cyan,1.0,1.0,1,Black,1,1.0,1.0,1.0,8,1.0,1,1.0,Red,1.0,1.0,1.0,,1.0,1.0,Red,0,1
+9.4.2022 9:14:27,F,1,25-64,Slovakia,High,Chronic low back pain,diabetis,6.0,White,1.0,1.0,1,Yellow,1,1.0,0.0,1.0,8,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Black,0,1
+9.4.2022 11:09:54,F,1,25-64,Poland,Middle,Cancer pain,oncological,6.0,Magenta,1.0,1.0,1,Cyan,1,1.0,1.0,1.0,7,1.0,1,1.0,Red,0.0,1.0,1.0,1.0,1.0,1.0,Red,0,1
+9.12.2022 13:52:03,F,0,25-64,Republic of Moldova,High,musculosceletal pain,neural_disfunction,4.0,Blue,1.0,1.0,1,Black,1,1.0,0.0,0.0,4,1.0,1,,,,1.0,0.0,1.0,0.0,0.0,Magenta,0,1
+9.12.2022 15:58:08,F,1,25-64,Republic of Moldova,High,Neuropathic pain,thyroid,8.0,Blue,1.0,1.0,1,Red,1,1.0,1.0,0.0,8,0.0,0,1.0,Red,1.0,1.0,1.0,1.0,1.0,1.0,Red,1,1
+9.12.2022 17:18:02,F,1,25-64,Republic of Moldova,High,0,,0.0,Black,1.0,1.0,0,Black,1,0.0,0.0,0.0,3,0.0,0,0.0,Red,1.0,0.0,0.0,0.0,1.0,1.0,Black,0,0
+9.13.2022 16:39:14,M,1,25-64,Ukraine,Middle,Cancer pain,oncological,2.0,Blue,1.0,1.0,1,Black,1,1.0,1.0,0.0,8,0.0,0,0.0,Green,1.0,1.0,0.0,1.0,1.0,1.0,Red,0,1
+9.13.2022 17:17:42,F,0,25-64,Ukraine,High,musculosceletal pain,locomotor,4.0,Red,1.0,1.0,0,White,1,1.0,1.0,0.0,7,1.0,1,1.0,Black,1.0,1.0,0.0,0.0,0.0,0.0,Blue,0,0
+9.15.2022 17:42:03,F,1,25-64,Ukraine,Middle,Cancer pain,oncological,10.0,Green,1.0,1.0,1,Green,1,0.0,1.0,1.0,8,1.0,1,0.0,Green,1.0,1.0,1.0,1.0,1.0,1.0,Green,1,1
+10.16.2022 11:20:13,M,0,25-64,Ukraine,High,Headache,HTA,6.0,Yellow,1.0,1.0,0,Yellow,1,1.0,1.0,1.0,6,0.0,0,1.0,Magenta,1.0,1.0,1.0,1.0,0.0,1.0,Magenta,1,1
